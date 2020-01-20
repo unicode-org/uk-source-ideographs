@@ -20,6 +20,7 @@ sure they can get the modifications of this software.
 Legal Terms
 
 0. Definitions:
+
    Throughout this License, "Font" means the TrueType fonts "AR PL
 Mingti2L Big5", "AR PL KaitiM Big5" (BIG-5 character set) and "AR PL
 SungtiL GB", "AR PL KaitiM GB" (GB character set) which are originally
@@ -42,11 +43,13 @@ conditions you received, not price. If you wish, you can charge for
 this service.
 
 1. Copying & Distribution
+
    You may copy and distribute verbatim copies of this Font in any
 medium, without restriction, provided that you retain this license
 file (ARPHICPL.TXT) unaltered in all copies.
 
 2. Modification
+
    You may otherwise modify your copy of this Font in any way, including
 modifying glyph, reordering glyph, converting format, changing font
 name, or adding/deleting some characters in/from glyph table, and copy
@@ -80,6 +83,7 @@ volume of a storage or distribution medium does not bring the other
 work under the scope of this License.
 
 3. Condition Subsequent
+
    You may not copy, modify, sublicense, or distribute the Font except as
 expressly provided under this License. Any attempt otherwise to copy,
 modify, sublicense or distribute the Font will automatically
@@ -89,6 +93,7 @@ keep their licenses valid so long as such parties remain in full
 compliance.
 
 4. Acceptance
+
    You are not required to accept this License, since you have not signed
 it. However, nothing else grants you permission to copy, modify,
 sublicense or distribute the Font. These actions are prohibited by law
@@ -97,6 +102,7 @@ sublicensing or distributing the Font, you indicate your acceptance of
 this License and all its terms and conditions.
 
 5. Automatic Receipt
+
    Each time you redistribute the Font, the recipient automatically
 receives a license from the original licensor to copy, distribute or
 modify the Font subject to these terms and conditions. You may not
@@ -105,6 +111,7 @@ rights granted herein. You are not responsible for enforcing
 compliance by third parties to this License.
 
 6. Contradiction
+
    If, as a consequence of a court judgment or allegation of patent
 infringement or for any other reason (not limited to patent issues),
 conditions are imposed on you (whether by court order, agreement or
@@ -124,6 +131,7 @@ apply and the section as a whole is intended to apply in other
 circumstances.
 
 7. NO WARRANTY
+
    BECAUSE THE FONT IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
 THE FONT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN
 OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS OR OTHER PARTIES
@@ -135,6 +143,7 @@ IS WITH YOU. SHOULD THE FONT PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
 8. DAMAGES WAIVER
+
    UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, IN NO EVENT
 WILL ANY COPYRIGHTT HOLDERS, OR OTHER PARTIES WHO MAY COPY, MODIFY OR
 REDISTRIBUTE THE FONT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR ANY
