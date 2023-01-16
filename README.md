@@ -10,7 +10,7 @@ Evidence images for both IRG N2107R2 and IRG N2232R are easily downloaded from t
 
 The glyphs that correspond to the UK-source ideographs are available in TrueType (TTF) format, their use is covered under the terms of the [Arphic Public License](https://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE) (also see *LICENSE.md*), and can be easily downloaded from the [Latest Release](https://github.com/unicode-org/uk-source-ideographs/releases/latest/). For *IRGN2232.ttf*, the glyphs are mapped from PUA (*Private Use Area*) code points as specified in the Excel file that is attached to *IRGN2232R.pdf*.
 
-In addition, the table below indicates the number of UK-Source ideographs that have been encoded in CJK Unified Ideographs **Extension** blocks through horizontal extensions and as of [Unicode Version 15.0](https://www.unicode.org/versions/Unicode15.0.0/):
+The table below indicates the number of UK-Source ideographs that have been encoded in CJK Unified Ideographs **Extension** blocks as horizontal extensions and as of [Unicode Version 15.0](https://www.unicode.org/versions/Unicode15.0.0/):
 
 **Extension** | **Ideographs**
 --- | ---
