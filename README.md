@@ -17,7 +17,6 @@ The table below indicates the number of UK-Source ideographs that have been enco
 [A](https://unicode.org/charts/PDF/U3400.pdf) | 3 | Horizontal extension
 [B](https://unicode.org/charts/PDF/U20000.pdf) | 12 | Horizontal extension
 [C](https://unicode.org/charts/PDF/U2A700.pdf) | 1 | Horizontal extension
-D | *none*
 [E](https://unicode.org/charts/PDF/U2B820.pdf) | 2 | Horizontal extension
 [F](https://unicode.org/charts/PDF/U2CEB0.pdf) | 2 | Horizontal extension
 [G](https://unicode.org/charts/PDF/U30000.pdf) | 1,566 | IRG Working Set 2015
