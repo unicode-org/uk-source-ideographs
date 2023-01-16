@@ -8,7 +8,7 @@
 
 Evidence images for both IRG N2107R2 and IRG N2232R are easily downloaded from the [Latest Release](https://github.com/unicode-org/uk-source-ideographs/releases/latest/) as *UKSourceEvidence.pdf*, which is a 1,236-page bookmarked PDF.
 
-The glyphs that correspond to the UK-source ideographs are available in TrueType (TTF) format, their use is covered under the terms of the [Arphic Public License](https://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE) (also see *LICENSE.md*), and can be easily downloaded from the [Latest Release](https://github.com/unicode-org/uk-source-ideographs/releases/latest/). For *IRGN2232.ttf*, the glyphs are mapped from PUA (*Private Use Area*) code points as specified in the Excel file that is attached to *IRGN2232R.pdf*.
+The representative glyphs that correspond to the UK-source ideographs are available in TrueType (TTF) format, their use is covered under the terms of the [Arphic Public License](https://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE) (also see *LICENSE.md*), and can be easily downloaded from the [Latest Release](https://github.com/unicode-org/uk-source-ideographs/releases/latest/). The representative glyphs are mapped from PUA (*Private Use Area*) code points as specified in the Excel file that is attached to each PDF.
 
 The table below indicates the number of UK-Source ideographs that have been encoded in CJK Unified Ideographs **Extension** blocks, either from IRG working sets or as horizontal extensions, and as of [Unicode Version 15.0](https://www.unicode.org/versions/Unicode15.0.0/):
 
